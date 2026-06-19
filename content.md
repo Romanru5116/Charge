@@ -6,3 +6,5 @@ Using ACPI Tool: If you prefer a simpler, classic summary, you can install and r
 To see detailed information, use:bashacpitool -B
 
  ![acpitool-B](https://github.com/Romanru5116/Charge/blob/0682888fa0ab3efc7a623af0ad7234c1324605ee/PIC/Screenshot%20BatteryLook%20from%202026-06-19%2010-38-44.png)
+c ACPI вроде как все хорошо
+![acpi]()
